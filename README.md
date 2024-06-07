@@ -53,7 +53,7 @@ Use the command `git status`. This command will show you:
 
 
 ### How do you add files to the staging area in git?
-- To add a specific file: `git add <filename>'
+- To add a specific file: `git add <filename>`
 - To add all modified files in the current directory (including all of the sub-directories inside): `git add` 
 
 
